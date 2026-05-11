@@ -20,7 +20,7 @@ Hi there, I'm **Lan-lann**, a **CS student**.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-FA7343?style=flat-square&logo=Go&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-1575F9?style=flat-square&logo=Vscode&logoColor=white)
+![Yaak](https://img.shields.io/badge/Yaak-1575F9?style=flat-square&logo=Yaak&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
