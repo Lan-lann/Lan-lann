@@ -4,9 +4,9 @@
     </h1>
 </div>
 
-## Hey 👋, I'm Lan-lann
+## Hey 👋, I'm Lanlann
 
-Hi there, I'm **Lan-lann**, a **CS student**.
+Hi there, I'm **Lanlann**, a **CS student**.
 
 ### Talking about Personal Stuffs:
 
