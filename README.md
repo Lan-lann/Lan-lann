@@ -11,7 +11,7 @@ Hi there, I'm **Lanlann**, a **CS student**.
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a CS student at my 3th year; 
-- 🤔 My interests are with Back-end programming, etc..;
+- 🤔 My interests are with Back-end development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in CS;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
